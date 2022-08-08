@@ -1,6 +1,12 @@
 **Step 1: Clone the Repository**
-[]: # Language: markdown
-[]: # Path: oh-my-zsh/README.md
+
+```bash
+git clone https://github.com/nishanthkumarpathi/lab-setup.git
+```
+
+```bash
+cd lab-setup
+```
 
 **Step 2: Run the Script.**
 ./setup.sh
